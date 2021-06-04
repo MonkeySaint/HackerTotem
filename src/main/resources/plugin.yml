@@ -1,0 +1,7 @@
+name: HackerTotem
+version: ${project.version}
+main: ca.elimin8.hackertotem.HackerTotem
+api-version: 1.13
+authors: [ kylevardy ]
+commands:
+  gethackertotem:
